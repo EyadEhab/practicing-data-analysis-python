@@ -9,5 +9,5 @@ region Europe West<br>
 machine type 4-cores<br>
 then click on create codespace it will take 5 min
 
-# python enviroment is ready
-u can use python file.py to run
+# we will use google colab for python
+u can use python file.ipynb to run
